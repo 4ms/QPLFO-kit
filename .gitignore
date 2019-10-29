@@ -1,0 +1,9 @@
+old
+*.eep
+*.map
+*.o
+*.lss
+*.aws
+*.zip
+dep/
+default/
